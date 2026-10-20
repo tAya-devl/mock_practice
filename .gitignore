@@ -1,0 +1,13 @@
+#vscode
+.vscode
+
+#secret
+/config/
+!/config/config.sample
+
+#temp
+*.log
+
+#OS
+Thumbs.db
+.DS_Store
